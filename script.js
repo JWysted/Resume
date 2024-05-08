@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetchData('data/experience.json', renderExperience, 'experience');
-    fetchData('data/skills.json', renderSkills, 'skills');
-    fetchData('data/education.json', renderEducation, 'education');
+    fetchData('content/experience.json', renderExperience, 'experience');
+    fetchData('content/skills.json', renderSkills, 'skills');
+    fetchData('content/education.json', renderEducation, 'education');
 });
 
 function fetchData(filePath, renderer, elementId) {
