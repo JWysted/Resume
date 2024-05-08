@@ -1,0 +1,13 @@
+[
+    {
+        "role": "Software Developer",
+        "company": "Tech Institute",
+        "city": "Aarhus",
+        "startDate": "Mar 2023",
+        "endDate": "Present",
+        "descriptions": [
+            "Development and maintenance of high-tech web applications.",
+            "Extensive use of Node.js and React for feature enhancements."
+        ]
+    }
+]
